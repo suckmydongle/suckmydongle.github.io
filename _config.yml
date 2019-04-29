@@ -18,7 +18,7 @@ email: jon.a.l.goldstein@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Inside the mind of a tech.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://goldstein.tech" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: suckmydongle
 github_username:  suckmydongle
 facebook_username: jonalgstein
